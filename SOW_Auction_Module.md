@@ -3,7 +3,6 @@
 
 **Project Name:** Points-Based Player Auction System  
 **Version:** 1.0  
-**Date:** 2024  
 **Target Market:** India (Primary)  
 **Release Type:** Initial Release / MVP
 
