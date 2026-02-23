@@ -3,7 +3,6 @@
 
 **Project Name:** Multi-Sport Tournament Management Platform  
 **Version:** 1.0  
-**Date:** 2024  
 **Target Market:** India (Primary), Expandable to Global
 
 ---
